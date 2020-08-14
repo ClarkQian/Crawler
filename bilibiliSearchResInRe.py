@@ -45,6 +45,7 @@ for key, value in res.items():
     print(value + " : " + key)
 
 '''
+.
 result demos:
 Please tell us what would you like to search:like
 Hi, I'm downloading first page belonging to https://search.bilibili.com/all?keyword=like&page=1&rt=V%2FymTlOu4ow%2Fy4xxNWPUZ5w4Y3KPs%2BSPsZO%2FsMlC7Uw%3D: 
