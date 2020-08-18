@@ -32,7 +32,7 @@ class loveGetImage(object):
         self.delete()
     # def initialization(self,url,imgPattern):
     #     driver = webdriver.Chrome()
-    #     url = 'https://cn.pornhub.com/albums/female-straight-uncategorized'
+    #     
     #     pattern = '.*?(https.*?.jpg)".*?'
     #     dir_dst = './img'
     #     driver.get(url)
