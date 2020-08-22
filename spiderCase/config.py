@@ -1,0 +1,5 @@
+MONGO_URL = 'localhost'
+MONGO_DB = 'toutiao'
+MONGO_TABLE = 'jiepai'
+dir_dst = './img/leg'
+kw = ''
